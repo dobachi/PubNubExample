@@ -85,5 +85,13 @@ Execute `param.sh`
 
 This sample code uses PIL to open JPG data.
 
+## Messaging
+
+This project includes sample codes: pub.py and sub.py
+
+This are based on the official document's sample codes.
+Please refer the documents for use.
+
+
 
 <!-- vim: set tw=0 et sts=2 sw=2 ts=2: -->
